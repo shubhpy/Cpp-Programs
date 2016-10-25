@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1471071617 source:/home/shubhanshu/Cpp Programs/Hello World/main.cpp
+	<bits/stdc++.h>
+
+1471072626 source:/home/shubhanshu/Cpp Programs/Hello World/main_c.c
+	<stdio.h>
+
